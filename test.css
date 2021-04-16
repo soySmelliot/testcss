@@ -551,8 +551,8 @@
 /* div icon */
 
 .leaflet-div-icon {
-	background: none;
-	border: none;
+	background: #fff;
+	border: 1px solid #666;
 	}
 
 
